@@ -32,4 +32,4 @@ This project is a how-to guide on using Watson Visual Recognition service to ana
 11. Change the string inside includes from trigger action function to set a different trigger
 
 
-![Video Tutorial](/Media/imageAnalysisIot.mp4)
+[Video Tutorial](/Media/imageAnalysisIot.mp4)
